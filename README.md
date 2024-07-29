@@ -1,13 +1,14 @@
-# my fav artists
+#my_Favorite_movies
+
+##Clash AND Wrath of the Titans
+
+![image](https://th.bing.com/th/id/OIP.og4NRTFWKOxGCZ0bssqf1gHaLH?w=192&h=288&c=7&r=0&o=5&dpr=1.5&pid=1.7.jpg)
+
+[Trailer](https://www.bing.com/videos/riverview/relatedvideo?&q=clash+of+the+titans+trailer+2010&&mid=&&FORM=VRDGAR)
 
 
-*Bob Ross*
-![image](https://content.assets.pressassociation.io/2020/04/16223726/725547d0-c612-4dc8-94d5-7becbd1bc2c3.jpg)
+##Friday
 
+![image](https://th.bing.com/th/id/OIP.PA34AdMxyyDYzIUfZlO--AHaKj?w=195&h=278&c=7&r=0&o=5&dpr=1.5&pid=1.7.jpg)
 
-
-*The Killers*
-![image](https://www.udiscovermusic.com/wp-content/uploads/2020/11/The-Killers-GettyImages-53258690.jpg)
-
-*Pierre Bourne*
-![image](https://www.highsnobiety.com/static-assets/thumbor/_mmWR_LqCvY4h_Z3aFPnEwTAehI=/1600x2000/www.highsnobiety.com/static-assets/wp-content/uploads/2022/08/01145037/pierre-bourne-interview-06.jpg)
+[Trailer](https://www.bing.com/videos/riverview/relatedvideo?&q=friday&&mid=50CF095D2C531716E67050CF095D2C531716E670&&FORM=VRDGAR)
